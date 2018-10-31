@@ -1,7 +1,7 @@
 # MovieAnalyze
 使用Spark对《邪不压正》电影的爬取豆瓣评分进行分词，用户的情感分析，使用d3-Cloud将结果数据以词云的方式展现出来，最后通过分词用户对该电影的评分来判断该电影的口碑。
 
-### 项目文档：【[《邪不压正》好不好看？大数据分析告诉你](https://blog.csdn.net/qq_37142346/article/details/82143092)】
+### 项目文档：【[《邪不压正》好不好看？大数据分析告诉你](https://mp.weixin.qq.com/s?__biz=MzU5NTI4NjI0NQ==&tempkey=OTgwX3lLU2VlZ2xpNnBFRk9jSW1rUGtMWFVZWGRFSVl6eFRZb3JNQy1qWktFWTBGVkdTMFVlVnNOOVBGVGtWWVpwUEFtWkp0QVZtNDRhQW9yWTctNGpzR1paOGtWcDJLeWI2Vzd1QlowUWZ5amxOR0J4dzVKdUh5LWdOSVpYTXZBWExhc1JwY1F5bE9JcjhNb1VkQjJTWEJTeUk5N01pYkhfWmxXUFNaeGd%2Bfg%3D%3D&chksm=7e7500e8490289fe4ab9e2da2d97c1bc76d2ec2fbe010d09512368e87c0b78475707674df32f#rd)】
 
 ### 注意事项：
 请阅读每个文件夹下的README.
